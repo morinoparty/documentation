@@ -28,13 +28,16 @@ nav:
     - Main: list/main.md
     - Res : list/res.md
     - Lobby: list/lobby.md
-  - Add Docs: how-to-add.md
+  - Edit Docs: how-to-add.md
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true

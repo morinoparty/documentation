@@ -2,16 +2,16 @@
 
 ## Lobbyサーバー
 
-- [Lobby](./lobby.md)
+- [Lobby](lobby.md)
 
 ## Mainサーバー
 
-- [Main](./main.md)
+- [Main](main.md)
 
 ## Resサーバー
 
-- [Res](./res.md)
+- [Res](res.md)
 
 ## Proxyサーバー
 
-- [Proxy](./proxy.md)
+- [Proxy](proxy.md)

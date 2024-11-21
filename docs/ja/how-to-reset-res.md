@@ -44,7 +44,7 @@ paper-**.jarがインストールされるので、それをサーバーのフ�
 ### 4.2 ゲームルールの変更
 - `/gamerule announceAdvancements false` 実績の表示を非表示にする
 - `/gamerule doFireTick false` 火の延焼を無効にする
-- `/gamerule playersSleepingPercentage 50` ベッドでスポーン地点を設定するプレイヤーの割合
+- `/gamerule playersSleepingPercentage 50` ベッドでどれだけ寝たら朝になるかの割合を設定する
 
 ### 4.3 情報伝達オブジェクトの配置
 #### 4.3.1 クエスト受付嬢(Citizens)
@@ -63,7 +63,7 @@ paper-**.jarがインストールされるので、それをサーバーのフ�
 - ジャングルの原木: 6.0/10個
 - トウヒの原木: 5.0/10個
 
-- ダイヤモンド: 100.0/1個
+- ダイヤモンド: 50.0/1個
 - 鉄の原石: 5.0/1個
 - ラピスラズリブロック: 10.0/1個
 - レッドストーンブロック: 5.0/1個

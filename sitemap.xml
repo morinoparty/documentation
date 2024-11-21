@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="None"/>
+    </url>
+    <url>
+        <loc>Nonehow-to-add/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonehow-to-add/"/>
+    </url>
+    <url>
+        <loc>Nonehow-to-reset-res/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonehow-to-reset-res/"/>
+    </url>
+    <url>
+        <loc>Nonelist/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonelist/"/>
+    </url>
+    <url>
+        <loc>Nonelist/lobby/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonelist/lobby/"/>
+    </url>
+    <url>
+        <loc>Nonelist/main/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonelist/main/"/>
+    </url>
+    <url>
+        <loc>Nonelist/proxy/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonelist/proxy/"/>
+    </url>
+    <url>
+        <loc>Nonelist/res/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Nonelist/res/"/>
+    </url>
+    <url>
+        <loc>Noneplugins/slotmachine/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneplugins/slotmachine/"/>
+    </url>
+    <url>
+        <loc>Noneplugins/template/</loc>
+        <lastmod>2024-11-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneplugins/template/"/>
+    </url>
+</urlset>
